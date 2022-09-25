@@ -1,0 +1,10 @@
+{
+	"type": "forge:add_spawns",
+	"structures": "minecraft:village",
+	"spawners": {
+		"type": "nameless_cat:nameless_cat",
+		"weight": 100,
+		"minCount": 1,
+		"maxCount": 3
+	}
+}
