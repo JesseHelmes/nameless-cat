@@ -47,3 +47,33 @@ Community Documentation: https://mcforge.readthedocs.io/en/latest/gettingstarted
 LexManos' Install Video: https://www.youtube.com/watch?v=8VEdtQLuLO0  
 Forge Forum: https://forums.minecraftforge.net/  
 Forge Discord: https://discord.gg/UvedJ9m  
+
+
+
+This is the nameless cat from the game Nameless cat.
+I saw this skin once on Pony Town and at some point i found where it came
+from. i never played the game myself, but i like the idea.
+
+
+Features
+- Entities
+	- Nameless cat
+		- spawn egg
+		- spawn in biomes: jungles, snowy slopes
+		- immune to fire, sweet berry bush, wither rose and cactus
+		- when a minecraft cat is killed this spawn and it won't turn into adult
+		- when natural spawn it can grow into adult
+		- can only breed when both are spawn natural
+		- tempt ingredients: tropical fish, cooked cod, cooked salmon
+		and minecraft default cat tempt ingredients
+		- is bright in dark (does not emit natural light)
+		- when health gets lower, it loses brightness
+		- won't attack other ghost kitties, ghast, players, tamed horses, tamed animals
+		- cat struck by lighting turn into ghost kitty
+
+Planned features
+- transparency / opacity of 5%
+- spawn near witch huts
+- spawn in abandoned villages
+
+Known bugs
